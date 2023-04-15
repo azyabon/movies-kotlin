@@ -1,6 +1,5 @@
 package com.example.movies_kotlin.data.api
 
-import android.text.format.Time
 import okhttp3.Interceptor
 import okhttp3.OkHttpClient
 import retrofit2.Retrofit
@@ -12,7 +11,7 @@ const val API_KEY = "36d3b9492c7c489a5890ffdecffba2e5";
 
 const val BASE_URL = "https://api.themoviedb.org/3/";
 
-const val POSTER_BASE_URL = "https://image.tmdb.org/t/p//w342";
+const val POSTER_BASE_URL = "https://image.tmdb.org/t/p/w500";
 
 object TheMovieDBClient {
 
