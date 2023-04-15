@@ -5,6 +5,8 @@
       <map>
         <entry key="..\:/study/st-mobile/movieskotlin/app/src/main/res/layout/activity_main.xml" value="0.396875" />
         <entry key="..\:/study/st-mobile/movieskotlin/app/src/main/res/layout/activity_single_movie.xml" value="0.446875" />
+        <entry key="..\:/study/st-mobile/movieskotlin/app/src/main/res/layout/movie_list_item.xml" value="0.446875" />
+        <entry key="..\:/study/st-mobile/movieskotlin/app/src/main/res/layout/network_state_item.xml" value="0.446875" />
       </map>
     </option>
   </component>
